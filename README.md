@@ -2,7 +2,11 @@
 
 MindKey is an innovative tool designed to enhance creativity and productivity. It allows users to create and organize their thoughts visually, get inspired with random prompts, jot down and manage their ideas, and customize their experience.
 
-The app is an android application built using capacitor but it can still be run locally. 
+The app is an android application built using capacitor but it can still be run locally.
+
+## Why did I make this? 
+- to have on my phone since i find it quite handy
+- to learn how to create android apps. 
 
 ## Features
 
