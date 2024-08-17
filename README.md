@@ -17,13 +17,16 @@ MindKey was created by Mihai Iordache, a passionate developer dedicated to creat
 
 ## Screenshots
 
-![Screenshot 1](1.jpeg)
-![Screenshot 2](2.jpeg)
-![Screenshot 2](3.jpeg)
-![Screenshot 2](4.jpeg)
-![Screenshot 2](5.jpeg)
-![Screenshot 2](6.jpeg)
-![Screenshot 2](7.jpeg)
+<p float="left">
+  <img src="1.jpeg" alt="Screenshot 1" width="200"/>
+  <img src="2.jpeg" alt="Screenshot 2" width="200"/>
+  <img src="3.jpeg" alt="Screenshot 3" width="200"/>
+  <img src="4.jpeg" alt="Screenshot 4" width="200"/>
+  <img src="5.jpeg" alt="Screenshot 5" width="200"/>
+  <img src="6.jpeg" alt="Screenshot 6" width="200"/>
+  <img src="7.jpeg" alt="Screenshot 7" width="200"/>
+</p>
+
 
 ## Getting Started
 
